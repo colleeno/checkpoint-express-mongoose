@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Colleen",
+    "publisher": "Publisher",
+    "age": 32,
+    "active": true
+  },
+  {
+    "name": "Jeannie",
+    "publisher": "Publisher",
+    "age": 32,
+    "active": true
+  },
+  {
+    "name": "Bob",
+    "publisher": "Some Publisher",
+    "age": 40,
+    "active": false
+  }
+]
